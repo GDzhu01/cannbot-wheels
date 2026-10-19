@@ -11,6 +11,9 @@ Prebuilt Python wheels for CPython 3.11 and 3.12 on Linux AArch64.
 | `cannbotdsl-0.6.0+g91e7c8f-cp312-cp312-manylinux_2_28_aarch64.whl` | `65b0957dd5462ac97e9318c688d95e9e4e71815832ef3b8c73caf0211998c51f` |
 | `cannbot_arena_net_ops-0.1.0-cp312-cp312-linux_aarch64.whl` | `af2d2a83a759ef07700588c187c833cb58583c9941efb4b3d7c221f1a5950633` |
 
+| `cannbot_arena_net_ops-0.1.0-cp311-cp311-linux_aarch64_1.whl` | `a7dd63fe629ca4db90d6cc5e374a6772ef64757ac090d219a97a386aaea7c016` |
+| `cannbotdsl-0.6.0+g91e7c8f-cp311-cp311-manylinux_2_28_aarch64_1.whl` | `d77d5e7fe953f50c8b2a3c8c9b69600fb483c18aece80a788ca44343eb2c7cb7` |
+
 ## Installation
 
 ```bash
