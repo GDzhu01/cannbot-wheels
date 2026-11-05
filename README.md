@@ -9,7 +9,7 @@ Linux AArch64 installation packages, including all previously uploaded versions.
 | `cann-ops-transformer-custom_linux-aarch64-A3-850.run` | `d6b2c6dd76364e96462f27bd46a9a17c0c4377b6050e77b6cb1174e6454c9abc` |
 | `cannbot_arena_net_ops-0.1.0-cp311-cp311-linux_aarch64_1.whl` | `a7dd63fe629ca4db90d6cc5e374a6772ef64757ac090d219a97a386aaea7c016` |
 | `cannbot_arena_net_ops-0.1.0-cp311-cp311-linux_aarch64.whl` | `cb2ace3690dc71c4e93143e6d420530595780bc3dd7e3b62ef206407c7a9bde6` |
-| `cannbot_arena_net_ops-0.1.0-cp312-cp312-linux_aarch64.whl` | `af2d2a83a759ef07700588c187c833cb58583c9941efb4b3d7c221f1a5950633` |
+| `cannbot_arena_net_ops-0.1.0-cp312-cp312-linux_aarch64.whl` | `4f2caa0f52cbe6234b90843d4e83e543cfb7e58a89f44567dd343ecea79cb9ca` |
 | `cannbot_arena_net-0.1.0-cp311-cp311-linux_aarch64.whl` | `7ad4357e707f6a05e058358cacbbc8a0de575054e3c80206a49a3a4cb01e2e35` |
 | `cannbot_arena_net-0.1.0-cp312-cp312-linux_aarch64.whl` | `c9d637d6db8704dee7ab0aa906dc1ed9fef10db6a43fbf35511ca02606fe186b` |
 | `cannbot_dsl-0.7.0-cp311-cp311-manylinux_2_28_aarch64.whl` | `28691280da199b46deb5034af99b2e3b67094cd903a7be27bf49b8536cbd0449` |
