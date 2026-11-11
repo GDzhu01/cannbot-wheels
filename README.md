@@ -1,6 +1,6 @@
 # CannBot packages
 
-Linux AArch64 installation packages, including all previously uploaded versions.
+Linux AArch64 and x86_64 installation packages, including all previously uploaded versions.
 
 ## Packages
 
@@ -17,8 +17,10 @@ Linux AArch64 installation packages, including all previously uploaded versions.
 | `cannbotdsl-0.4.dev28-cp311-cp311-manylinux_2_34_aarch64.whl` | `5a343eadbb1fd57c1caad7cbb4a702b83a3a077ca7d4f010733258a95e4ea427` |
 | `cannbotdsl-0.6.0+g91e7c8f-cp311-cp311-manylinux_2_28_aarch64_1.whl` | `d77d5e7fe953f50c8b2a3c8c9b69600fb483c18aece80a788ca44343eb2c7cb7` |
 | `cannbotdsl-0.6.0+g91e7c8f-cp312-cp312-manylinux_2_28_aarch64.whl` | `65b0957dd5462ac97e9318c688d95e9e4e71815832ef3b8c73caf0211998c51f` |
+| `cannbotdsl-0.6.0+g91e7c8f-cp312-cp312-manylinux_2_28_x86_64.whl` | `7b4b5b3e5e6b450b1b70188c2be460e0fd3650aa89adf1aace92b90416c768d3` |
+| `cannbot_arena_net_ops-0.1.0+ds41fix20261028-cp312-cp312-linux_x86_64.whl` | `ece39b9a6c71abffd8ca92950e43630a0de1b853b0e5fab52834421dc920ffe5` |
 
-Wheel filenames indicate the required CPython version (`cp311` or `cp312`) and Linux AArch64 platform.
+Wheel filenames indicate the required CPython version (`cp311` or `cp312`) and Linux platform (`aarch64` or `x86_64`).
 
 ## Download
 
